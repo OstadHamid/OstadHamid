@@ -1,5 +1,5 @@
 # 👋 Hello there!
-My name is Hamid  and I am a freelancing Front-End Developer, with experience using HTML, CSS, JavaScript, C#, Bash.
+My name is Hamid, and I am a freelancing Front-End Developer, with experience using HTML, CSS, JavaScript, C#, Bash.
 
 I am exceptionally passionate about utilizing my creativity in designing; developing a professional website for my clients. I am regularly looking for feedback to assist me in strengthening my skills.
 
