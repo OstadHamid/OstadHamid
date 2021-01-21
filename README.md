@@ -8,6 +8,6 @@ I am exceptionally passionate about utilizing my creativity in designing; develo
 <img src="https://img.shields.io/badge/code-python-blueviolet?style=for-the-badge">
 
 # 📊 Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ostadhamid&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ostadhamid&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
